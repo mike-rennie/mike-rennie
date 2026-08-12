@@ -15,4 +15,4 @@ In 2025 I co-founded **mixOmics Pro** with Professor [Kim-Anh Lê Cao](https://g
 ---
 
 **Contact**  
-**E**&nbsp; mike@mikerennie.com.au
+**E**&nbsp; mike@mixOmics.pro
