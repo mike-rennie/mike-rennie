@@ -4,7 +4,7 @@ In 2025 I co-founded mixOmics Pro with Professor [Kim-Anh Lê Cao](https://githu
 
 ### Now
 
-| | &nbsp;&nbsp;Web&nbsp;&nbsp; | LinkedIn | &nbsp;GitHub&nbsp; | Facebook | Instagram |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Web&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;LinkedIn&nbsp; | &nbsp;&nbsp;GitHub&nbsp;&nbsp; | Facebook | Instagram |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **[mixOmics Pro](https://mixomics.pro)** <br>Co-founder, co-CEO & CTO | [<img src="https://api.iconify.design/octicon:globe-24.svg?color=white" alt="Website" height="24">](https://mixomics.pro) | [<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" height="18">](https://www.linkedin.com/company/mixomics-pro) | [<img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" height="18">](https://github.com/mixomics-pro) | [<img src="https://cdn.simpleicons.org/facebook/000000/ffffff" alt="Facebook" height="18">](http://facebook.com/mixomics.pro) | [<img src="https://cdn.simpleicons.org/instagram/000000/ffffff" alt="Instagram" height="18">](https://instagram.com/mixomics.pro) |
 | **[mixOmics Org](https://mixomics.org)** <br>Securing the future of the open-source R package | [<img src="https://api.iconify.design/octicon:globe-24.svg?color=white" alt="Website" height="24">](https://mixomics.org) | [<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" height="18">](https://www.linkedin.com/company/105612372/admin/dashboard/) | [<img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" height="18">](https://github.com/mixomics-org) | [<img src="https://cdn.simpleicons.org/facebook/000000/ffffff" alt="Facebook" height="18">](http://facebook.com/mixomics) | | 
@@ -12,7 +12,7 @@ In 2025 I co-founded mixOmics Pro with Professor [Kim-Anh Lê Cao](https://githu
 
 ### Before
 
-| | &nbsp;&nbsp;Web&nbsp;&nbsp; | LinkedIn | &nbsp;GitHub&nbsp; |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Web&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;LinkedIn&nbsp; | &nbsp;&nbsp;GitHub&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|
 | **[Sport Consultants Australia](https://sportconsultantsaustralia.com)** <br>Managing partner, 2019–2025. Strategy, governance, grants | [<img src="https://api.iconify.design/octicon:globe-24.svg?color=white" alt="Website" height="24">](https://sportconsultantsaustralia.com) | [<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" height="18">](https://www.linkedin.com/company/sport-consultants-australia) | [<img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" height="18">](https://github.com/Sport-Consultants-Australia) |
 | **[Mike Rennie Creative](https://mikerennie.com.au)** <br>Design, media, marketing and digital transformation, 2015–2025 | [<img src="https://api.iconify.design/octicon:globe-24.svg?color=white" alt="Website" height="24">](https://mikerennie.com.au) | [<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" height="18">](https://www.linkedin.com/company/mike-rennie-creative) | [<img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" height="18">](https://github.com/mike-rennie-creative) | 
